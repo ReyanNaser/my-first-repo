@@ -1,1 +1,2 @@
-echo "Welcome To My First Repo"
+Welcome To My First Repo
+Learning Git is going well so far.
